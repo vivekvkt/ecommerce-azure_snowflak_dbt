@@ -1,4 +1,1 @@
-SELECT 
-    customer_id,
-    total_revenue
-FROM CUSTOMER_REVENUE
+SELECT * FROM {{ source('ecommerce', 'CUSTOMER_REVENUE') }}

@@ -1,4 +1,1 @@
-SELECT 
-    order_date,
-    daily_revenue
-FROM DAILY_REVENUE
+SELECT * FROM {{ source('ecommerce', 'DAILY_REVENUE') }}

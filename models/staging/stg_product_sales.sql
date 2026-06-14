@@ -1,4 +1,1 @@
-SELECT 
-    product_id,
-    total_orders
-FROM PRODUCT_SALES
+SELECT * FROM {{ source('ecommerce', 'PRODUCT_SALES') }}
