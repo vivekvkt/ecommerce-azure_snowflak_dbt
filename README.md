@@ -1,5 +1,19 @@
 # 🚀 E-Commerce Analytics Platform
 
+End-to-End Data Engineering Project using Azure Databricks, ADLS Gen2, Snowflake, dbt and Power BI.
+
+## 🏗️ Architecture
+
+<p align="center">
+  <img src="https://github.com/vivekvkt/ecommerce-azure_snowflak_dbt/blob/main/image/architecture.png" width="900">
+</p>
+
+## 📊 Dashboard
+
+<p align="center">
+  <img src="https://github.com/vivekvkt/ecommerce-azure_snowflak_dbt/blob/main/image/ecommerce_POWERBI_Dashboard.PNG" width="900">
+</p>
+
 ## 📌 Project Overview
 
 This project demonstrates an end-to-end modern Data Engineering and Analytics solution using Azure Databricks, ADLS Gen2, Snowflake, dbt, and Power BI.
