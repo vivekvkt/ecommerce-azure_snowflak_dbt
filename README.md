@@ -275,6 +275,8 @@ dbt docs generate
 
 ## 👨‍💻 Author
 
-Vivek Tiwari
+Vivek Tiwari 
+[vivek.tiwari1592@gmail.com]
+6302296279
 
 Azure Data Engineer | Databricks | Snowflake | SQL | PySpark | dbt | Power BI
